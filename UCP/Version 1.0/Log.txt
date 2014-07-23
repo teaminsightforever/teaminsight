@@ -1,0 +1,9 @@
+Tue Jul  8 16:15:22 2014 - Server Type: Master | Start Date:  | End Date: 
+Tue Jul  8 16:15:26 2014 - Copying Files From: //lon5nas101/tesco/UCP_Test/UCP_Test_Input/ TO lon5dpu109 LIMIT: 20140101 -> 20140101
+Tue Jul  8 16:24:33 2014 - Copying Files From: //lon5nas101/tesco/UCP_Test/UCP_Test_Input/ TO off LIMIT: 20140201 -> 20140301
+Tue Jul  8 16:52:02 2014 - Server Type: Master | Start Date:  | End Date: 
+Tue Jul  8 16:52:06 2014 - Copying Files From: //lon5nas101/tesco/UCP_Test/UCP_Test_Input/ TO lon5dpu109 LIMIT: 20140101 -> 20140130
+Tue Jul  8 17:02:06 2014 - Copying Files From: //lon5nas101/tesco/UCP_Test/UCP_Test_Input/ TO off LIMIT: 20140201 -> 20140301
+Tue Jul  8 17:20:22 2014 - Server Type: Master | Start Date:  | End Date: 
+Tue Jul  8 17:20:26 2014 - Copying Files From: //lon5nas101/tesco/UCP_Test/UCP_Test_Input/ TO lon5dpu109 LIMIT: 20140101 -> 20140130
+Tue Jul  8 17:30:42 2014 - Copying Files From: //lon5nas101/tesco/UCP_Test/UCP_Test_Input/ TO off LIMIT: 20140201 -> 20140301
